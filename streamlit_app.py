@@ -22,7 +22,7 @@ from paperbanana_web.results import (
     final_image,
     image_png_bytes,
 )
-from paperbanana_web.theme import AGENT_PIPELINE_HTML, APP_CSS, WORKFLOW_HTML
+from paperbanana_web.studio_theme import AGENT_PIPELINE_HTML, APP_CSS, WORKFLOW_HTML
 
 
 ROOT = Path(__file__).resolve().parent
